@@ -3,3 +3,7 @@ In this project, I implemented an algorithm for finding your way through a maze.
 
 
 <h1 align = "center"> How to Run this Program </h1>
+
+Just run the MazeApp application and watch the algorithms solve mazes.
+
+
